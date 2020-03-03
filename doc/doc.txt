@@ -1,0 +1,28 @@
+Credentials - Bliss Drive - Staging
+
+https://www.blissdrive.com/1582787888187
+
+
+Your WordPress access details:
+
+U: g_user
+P: Gb#t65%q2bEr$hgp178
+
+
+==========================================================================
+
+Hello Ghosh,
+
+I've attached the access details for the access details for the staging copy of the website for you to work on to create the new landing page. 
+
+Instructions for the Creation of the New Landing Page: https://screencast-o-matic.com/watch/cYnTi9wsh8
+
+This is the website page that we would like you to duplicate and create a new landing page on our website similar to:  https://www.webprofits.com.au/lp/seo-analysis/ 
+
+Please make the necessary adjustments on the page to instead utilize our logo, phone number, font types, color scheme, etc. The majority of the page will remain just like it is on the example site, besides the footer. The footer as mentioned in the instructional video above will simply match our current footer on the website. 
+
+This can be the URL address for the new landing page: https://www.blissdrive.com/lp/seo-analysis
+
+For the logo section on the website you can start off with the logos that we have under the Testimonials rotating carousel on the homepage of our website. 
+
+All the best,
