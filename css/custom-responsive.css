@@ -113,6 +113,11 @@ body.fixed { position:fixed}
 	.footer-col-4 {width: 50% !important;}
 	.footer-col{margin-bottom: 40px;}
 	.footer-col-5{margin-bottom: 0;}
+	.footer-middle-col-1 {width: 90% !important;margin-bottom: 40px;}
+	.footer-middle-col-2 {width: 49.9% !important;}
+	.footer-middle-col-3 {width: 45.9% !important;}
+	footer {width: auto;}
+	
 	
 	
 }
@@ -135,4 +140,14 @@ ul.icons-list li { width: 100%; text-align: left }
 }
 @media all and (max-width:440px) {
 .chk_box {display: inline-block; width: 100%}
+	.dp-custom-partner .content {width: auto;}
+	h2.cta-title {max-width: 100%;}
+	.custom-container h4 {padding: 0 0px;}
+}
+@media all and (max-width:360px) {
+	.dp-call-to-us a {padding: 13px 52px;}
+	.dp-frm-inr input {width: 252px;}
+	.dp-custom-frm-btm {padding: 16px 36px;}
+	.custom-growing-traffic p {max-width: 94%;}
+	.custom-footer {padding: 57px 15px 30px;}
 }
