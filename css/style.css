@@ -6,19 +6,19 @@
 
 @font-face {
 	font-family: 'Graphik-Medium';
-	src: url(file:///D:/Dipan/wordpresss-theme-project/2020/Bliss-Drive/fonts/GraphikMedium.otf);
+	src: url(../fonts/GraphikMedium.otf);
 }
 @font-face{
 	font-family: 'Graphik';
-	src: url(file:///D:/Dipan/wordpresss-theme-project/2020/Bliss-Drive/fonts/GraphikRegular.otf);
+	src: url(../fonts/GraphikRegular.otf);
 }
 @font-face{
-	src: url(file:///D:/Dipan/wordpresss-theme-project/2020/Bliss-Drive/fonts/GraphikSemibold.otf);
+	src: url(../fonts/GraphikSemibold.otf);
 	font-family: 'Graphik-semibold';
 }
 @font-face{
 	font-family: 'graphik-light';
-	src: url(file:///D:/Dipan/wordpresss-theme-project/2020/Bliss-Drive/fonts/GraphikLight.otf);
+	src: url(../fonts/GraphikLight.otf);
 }
 html { -webkit-text-size-adjust: 100%; -moz-text-size-adjust: none; -ms-text-size-adjust: 100%; /* Prevent font scaling in landscape */ }
 body { background: #fff; margin: 0; padding: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -webkit-text-size-adjust: 100%; }
