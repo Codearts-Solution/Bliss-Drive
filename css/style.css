@@ -334,7 +334,7 @@ html .mfp-wrap { -webkit-overflow-scrolling: touch; overflow-y: scroll; /* has t
 	content: '';
 	position: absolute;
 	left: 13px;
-	top: 0;
+	top: 13px;
 	height: 5px;
 	width: 5px;
 	border-radius: 50%;
